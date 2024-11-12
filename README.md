@@ -2,14 +2,14 @@
 <h3 align="center">Machine Learning & Data Analytics | Crafting Predictive Models for Real-World Impact</h3>
 <img align="right" alt="Coding" width="400" src='https://media.licdn.com/dms/image/v2/C4E12AQEUeokq54LTwA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1603198773362?e=2147483647&v=beta&t=rJhfDpyP09EQmZBfHqd8gb1iQEhCCSAKjExmOex5fEI'>
 
-
+- Data analytics enthusiast and aspiring machine learning engineer with a strong foundation in data-driven problem-solving. Skilled in building predictive models and exploring advanced algorithms to turn complex data into actionable insights. Passionate about continuously learning and applying machine learning techniques to real-world challenges, with projects spanning data cleaning, visualization, and model deployment.
 - 🔭 I’m currently working on **US Bond Yield Prediction**
 
 - 🌱 I’m currently learning **Advanced Machine Learning Algorithms – refining my understanding of ensemble methods, neural networks, and deep learning techniques.**
 
 - 📫 How to reach me **vineethadapa27@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
